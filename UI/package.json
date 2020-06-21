@@ -1,0 +1,17 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Kumar M",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "cropper": "^3.0.0-alpha.1",
+    "croppie": "^2.4.0",
+    "jquery": "^3.1.1"
+  }
+}
